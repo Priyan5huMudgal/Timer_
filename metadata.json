@@ -1,0 +1,5 @@
+{
+  "name": "Persistent Timer & Log",
+  "description": "A desktop-style timer application that persists across sessions, capable of running for over 500 hours. It includes a calendar to view daily tracked time and a log for taking notes.",
+  "requestFramePermissions": []
+}
